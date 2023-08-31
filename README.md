@@ -3,7 +3,7 @@
 
 📁 **Description**  
 
-Développée alors que je travaillais chez [Vision Business Solution](https://vbs-solutions.com/), cette API innovante simplifie les processus Sage 300 ERP pour le secteur minier. Elle permet l'approbation des demandes, des factures et des commandes via les appareils mobiles, éliminant ainsi la paperasse et améliorant considérablement l'efficacité. Les décisions éclairées sont favorisées grâce au suivi en temps réel. Modernisez votre flux de travail dès aujourd'hui.
+Développée alors que je travaillais chez [Vision Business Solution](https://vbs-solutions.com/), cette API innovante simplifie les processus Sage 300 ERP pour le secteur minier. Elle permet l'approbation des demandes, des factures et des commandes via les appareils mobiles, éliminant ainsi la paperasse et améliorant considérablement l'efficacité. Les décisions éclairées sont favorisées grâce au suivi en temps réel.
 
 
 🧑🏻‍💻 **Développement**  
