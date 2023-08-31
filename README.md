@@ -1,21 +1,18 @@
 📱 **Sage 300 ERP Mobile Workflow API**  
-
-![Aperçu](lien-vers-la-vidéo-de-présentation.mov)
+![Aperçu](https://i.ibb.co/dbr98Gn/Screenshot-2023-08-31-144621.png)
 
 📁 **Description**  
 
-Optimisez vos processus Sage 300 ERP grâce à notre API. Approuvez les demandes, les factures et les commandes via votre mobile, éliminant ainsi la paperasserie et améliorant l'efficacité. Suivi en temps réel pour des décisions éclairées. Modernisez votre flux de travail dès aujourd'hui.
+Développée alors que je travaillais chez [Vision Business Solution](https://vbs-solutions.com/), cette API innovante simplifie les processus Sage 300 ERP pour le secteur minier. Elle permet l'approbation des demandes, des factures et des commandes via les appareils mobiles, éliminant ainsi la paperasse et améliorant considérablement l'efficacité. Les décisions éclairées sont favorisées grâce au suivi en temps réel. Modernisez votre flux de travail dès aujourd'hui.
 
-📶 **API**  
-
-Notre API Sage 300 ERP Mobile Workflow vous permet d'intégrer et d'automatiser en toute simplicité vos processus ERP, vous permettant d'approuver les demandes, les factures et les commandes directement depuis votre appareil mobile. Dites adieu à la paperasserie et bonjour à une efficacité accrue. Gardez vos décisions commerciales informées grâce au suivi en temps réel. Il est temps de moderniser votre flux de travail.
 
 🧑🏻‍💻 **Développement**  
 
-Notre projet repose sur une base solide en Node.js, garantissant fiabilité et évolutivité. Nous avons conçu l'API en privilégiant la simplicité, facilitant ainsi son intégration. De l'approbation des demandes à la gestion des factures, notre API optimise vos processus Sage 300 ERP pour une efficacité maximale.
+Conçu pendant mon passage chez Vision Business Solution, ce projet repose sur une base solide en Node.js, garantissant fiabilité et évolutivité. L'API a été créée avec une simplicité d'intégration en tête. Des demandes d'approbation aux gestionnaires de factures, elle optimise les processus Sage 300 ERP pour le secteur minier, renforçant ainsi l'efficacité opérationnelle.
 
 🎁 **Démo**  
 
-Curieux de savoir comment fonctionne notre API ? Explorez une démonstration en direct [ici](https://workflowapi-node-js.vercel.app/).
+Pour une démonstration concrète du fonctionnement de l'API, découvrez une démo en direct [ici](https://workflowapi-node-js.vercel.app/).
+
 
 
