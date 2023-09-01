@@ -8,7 +8,7 @@ Développée alors que je travaillais chez [Vision Business Solution](https://vb
 
 🧑🏻‍💻 **Développement**  
 
-Conçu pendant mon passage chez Vision Business Solution, ce projet repose sur une base solide en Node.js, garantissant fiabilité et évolutivité. L'API a été créée avec une simplicité d'intégration en tête. Des demandes d'approbation aux gestionnaires de factures, elle optimise les processus Sage 300 ERP pour le secteur minier, renforçant ainsi l'efficacité opérationnelle.
+Conçu pendant mon passage chez [Vision Business Solution](https://vbs-solutions.com/), ce projet repose sur une base solide en Node.js, garantissant fiabilité et évolutivité. L'API a été créée avec une simplicité d'intégration en tête. Des demandes d'approbation aux gestionnaires de factures, elle optimise les processus Sage 300 ERP pour le secteur minier, renforçant ainsi l'efficacité opérationnelle.
 
 🎁 **Démo**  
 
